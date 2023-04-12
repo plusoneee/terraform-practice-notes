@@ -1,0 +1,6 @@
+# Jenkins container configuration
+jenkins_image_name = "jenkins/jenkins"
+jenkins_image_tag = "2.387.2"
+jenkins_container_name = "my-jenkins-container"
+jenkins_home_directory = "/path/to/my/jenkins_home"
+jenkins_external_port = 8080
