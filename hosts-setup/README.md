@@ -15,7 +15,7 @@ This Terraform configuration allows you to manage entries in the `/etc/hosts` fi
 
 
 ### Customizing Variables
-To use custom domain and IP values, create a terraform.tfvars file in the same directory as `main.tf` and `variables.tf` with the following content:
+To use custom domain and IP values, create a `terraform.tfvars` file in the same directory as `main.tf` and `variables.tf` with the following content:
 
 ```hcl
 domain = "your-domain.com"
