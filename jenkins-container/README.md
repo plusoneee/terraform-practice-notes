@@ -15,7 +15,7 @@ The project has the following file structure:
 ```
 
 * `main.tf`: Defines the Jenkins Docker container, including the image, ports, volumes, and command.
-* `terraform.tfvars.example`: Provides an example configuration for the * Terraform input variables.
+* `terraform.tfvars.example`: Provides an example configuration for the Terraform input variables.
 * `variables.tf`: Defines the input variables for the Terraform configuration.
 
 ## Usage
