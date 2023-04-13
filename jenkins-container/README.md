@@ -1,7 +1,5 @@
 # Jenkins Terraform Configuration
 
-## Overview
-
 This Terraform configuration creates a Docker container running Jenkins with a specific version and configuration. It includes a `main.tf` file that defines the infrastructure resources, a `variables.tf` file that defines the input variables for the configuration, and a `terraform.tfvars.example` file that provides an example configuration.
 
 ## File Structure

@@ -1,6 +1,5 @@
 # Manage /etc/hosts Entries with Terraform
 
-## Overview
 This Terraform configuration allows you to manage entries in the `/etc/hosts` file by adding and removing domain names along with their corresponding IP addresses during the deployment and destruction process.
 
 ## File Structure

@@ -1,6 +1,5 @@
 # Terraform Kubernetes Nginx Example
 
-## Overview
 This example demonstrates how to use Terraform to provision a Kubernetes deployment with Nginx.
 
 ## File Structure
