@@ -1,0 +1,8 @@
+kubeconfig_path = "YOUR_KUBECONFIG_PATH"
+namespace = "YOUR_NAMESPACE_NAME"
+deployment_name = "YOUR_DEPLOYMENT_NAME"
+replicas = 2
+container_name = "nginx-container"
+image_name = "nginx"
+container_port = 80
+node_port = 30080
